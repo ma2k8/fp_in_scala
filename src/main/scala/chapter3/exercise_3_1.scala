@@ -2,6 +2,7 @@ package chapter3
 
 object exercise_3_1 {
 
+  println(3)
 //  scala> val x = List(1,2,3,4,5) match {
 //  | case Cons(x, Cons(2, Cons(4, _))) => x
 //      | case Nil => 42
